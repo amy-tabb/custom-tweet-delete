@@ -1,5 +1,5 @@
 # custom-tweet-delete
-Scripts for custom tweet deleting from your timeline or from archive files. Companion to an blog post.
+Scripts for custom tweet deleting from your timeline or from archive files. Companion to an blog post. [amytabb.com](https://amytabb.com/ts/2021-03-04)
 
 See the blog post for a look at how these scripts are to be used.
 
